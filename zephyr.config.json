@@ -1,0 +1,7 @@
+{
+    "projectKey":"ZT",
+    "jwtToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb250ZXh0Ijp7ImJhc2VVcmwiOiJodHRwczovL3RlY2lmaS5hdGxhc3NpYW4ubmV0IiwidXNlciI6eyJhY2NvdW50SWQiOiI2MDJiNTU5NDg3MWQzMDAwNjgxYzdkZjkiLCJ0b2tlbklkIjoiZTdiNjZhM2EtNGJiOC00Yjg2LThiMDctZjE0ODI5YTcxYmE5In19LCJpc3MiOiJjb20ua2Fub2FoLnRlc3QtbWFuYWdlciIsInN1YiI6IjMwMzg4MTJiLTNiMzctMzRhZC1iYjQzLWEyOWE2OWFkNTg2NCIsImV4cCI6MTc2MTQ4MDU2MywiaWF0IjoxNzI5OTQ0NTYzfQ.EfhSJUL7ouH7NIoto6alDQU0sMpJS_xB8DfaBv55s40", 
+    "testCyclePrefix":"sample-api-testing-", 
+    "endpoint":"https://api.zephyrscale.smartbear.com/v2/"
+
+}
