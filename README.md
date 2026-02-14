@@ -3,3 +3,4 @@
 # vitest-learning
 # job-application-agents
 # job-application-agents
+# openapi-generator
